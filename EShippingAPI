@@ -799,7 +799,7 @@
             ]
          }
       ],
-      "mockNotifications":[
+      "Notifications":[
          {
             "id":"n1",
             "type":"mention",
